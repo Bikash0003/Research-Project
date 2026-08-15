@@ -1,0 +1,156 @@
+variable,description,unit,period_available,transformation
+active_data_decisions_pct,Active Data Decisions,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+adherence_to_standards_pct,Adherence To Standards,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+admin_privilege_restriction_pct,Admin Privilege Restriction,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+ai_use_pct,Ai Use,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+any_cyber_incident_pct,Any Cyber Incident,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+any_cyber_measure_pct,Any Cyber Measure,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+any_einvoice_pct,Any Einvoice,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+any_government_assistance_pct,Any Government Assistance,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+any_ict_limit_pct,Any Ict Limit,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+any_ict_management_practice_pct,Any Ict Management Practice,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+any_ict_pct,Any Ict,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+any_innovation_barrier_pct,Any Innovation Barrier,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+any_innovation_benefit_pct,Any Innovation Benefit,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+any_internet_connection_pct,Any Internet Connection,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+any_mobile_wireless_pct,Any Mobile Wireless,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+any_online_orders_received_pct,Any Online Orders Received,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+any_online_presence_pct,Any Online Presence,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+any_skill_shortage_pct,Any Skill Shortage,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+backup_pct,Backup,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+broadband_pct,Broadband,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+cable_pct,Cable,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+cloud_pct,Cloud,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+crm_pct,Crm,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+customer_demand_barrier_pct,Customer Demand Barrier,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+customer_service_skill_shortage_pct,Customer Service Skill Shortage,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+cyber_security_software_pct,Cyber Security Software,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+cyber_staff_training_pct,Cyber Staff Training,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+data_analytics_pct,Data Analytics,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+data_analytics_skill_shortage_pct,Data Analytics Skill Shortage,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+dialup_pct,Dialup,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+digital_performance_targets_pct,Digital Performance Targets,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+digital_platforms_pct,Digital Platforms,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+digital_skill_shortage_pct,Digital Skill Shortage,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+digital_strategy_pct,Digital Strategy,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+digital_training_pct,Digital Training,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+dsl_pct,Dsl,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+economic_uncertainty_barrier_pct,Economic Uncertainty Barrier,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+edi_pct,Edi,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+erp_pct,Erp,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+external_ict_consultants_pct,External Ict Consultants,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+fibre_pct,Fibre,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+finance_in_progress_pct,Finance In Progress,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+finance_not_obtained_pct,Finance Not Obtained,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+finance_obtained_pct,Finance Obtained,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+finance_sought_pct,Finance Sought,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+fixed_wireless_pct,Fixed Wireless,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+formal_cyber_policy_pct,Formal Cyber Policy,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+general_funds_barrier_pct,General Funds Barrier,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+goods_services_innovation_pct,Goods Services Innovation,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+government_advisory_pct,Government Advisory,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+government_grants_pct,Government Grants,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+government_ongoing_funding_pct,Government Ongoing Funding,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+government_rebates_pct,Government Rebates,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+government_tax_concessions_pct,Government Tax Concessions,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+government_wage_cashflow_pct,Government Wage Cashflow,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+human_resources_skill_shortage_pct,Human Resources Skill Shortage,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+ict_limit_cost_benefit_pct,Ict Limit Cost Benefit,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+ict_limit_cyber_pct,Ict Limit Cyber,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+ict_limit_funds_pct,Ict Limit Funds,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+ict_limit_skills_pct,Ict Limit Skills,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+ict_limit_technology_pct,Ict Limit Technology,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+ict_limit_understanding_pct,Ict Limit Understanding,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+identity_access_management_pct,Identity Access Management,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+impersonation_pct,Impersonation,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+innovating_business_pct,Innovating Business,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_active_pct,Innovation Active,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_activity_expenditure_acquired_from_other_businesses_or_institutions_pct,Innovation Activity Expenditure Acquired From Other Businesses Or Institutions,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_activity_expenditure_acquisition_of_licences_rights_patents_or_other_intellectual_property_pct,Innovation Activity Expenditure Acquisition Of Licences Rights Patents Or Other Intellectual Property,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_activity_expenditure_acquisition_of_machinery_equipment_or_technology_to_develop_or_introduce_new_or_significantly_improved_goods_services_or_processes_pct,Innovation Activity Expenditure Acquisition Of Machinery Equipment Or Technology To Develop Or Introduce New Or Significantly Improved Goods Services Or Processes,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_activity_expenditure_any_expenditure_on_research_and_experimental_development_pct,Innovation Activity Expenditure Any Expenditure On Research And Experimental Development,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_activity_expenditure_design_planning_or_testing_to_develop_or_introduce_new_or_significantly_improved_goods_services_or_processes_pct,Innovation Activity Expenditure Design Planning Or Testing To Develop Or Introduce New Or Significantly Improved Goods Services Or Processes,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_activity_expenditure_marketing_activities_undertaken_to_introduce_new_or_significantly_improved_goods_or_services_to_the_market_pct,Innovation Activity Expenditure Marketing Activities Undertaken To Introduce New Or Significantly Improved Goods Or Services To The Market,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_activity_expenditure_other_activities_related_to_the_development_or_introduction_of_new_or_significantly_improved_goods_services_or_processes_pct,Innovation Activity Expenditure Other Activities Related To The Development Or Introduction Of New Or Significantly Improved Goods Services Or Processes,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_activity_expenditure_other_labour_costs_related_to_the_development_or_introduction_of_new_or_significantly_improved_goods_services_or_processes_pct,Innovation Activity Expenditure Other Labour Costs Related To The Development Or Introduction Of New Or Significantly Improved Goods Services Or Processes,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_activity_expenditure_performed_by_the_business_pct,Innovation Activity Expenditure Performed By The Business,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_activity_expenditure_re_organisation_of_existing_business_models_work_practices_and_decision_making_processes_pct,Innovation Activity Expenditure Re Organisation Of Existing Business Models Work Practices And Decision Making Processes,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_activity_expenditure_training_relevant_to_the_development_or_introduction_of_new_or_significantly_improved_goods_services_or_processes_pct,Innovation Activity Expenditure Training Relevant To The Development Or Introduction Of New Or Significantly Improved Goods Services Or Processes,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_barrier_any_skills_pct,Innovation Barrier Any Skills,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_barrier_cost_pct,Innovation Barrier Cost,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_barrier_funds_pct,Innovation Barrier Funds,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_barrier_internal_skills_pct,Innovation Barrier Internal Skills,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_barrier_knowledge_technology_pct,Innovation Barrier Knowledge Technology,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_barrier_labour_market_skills_pct,Innovation Barrier Labour Market Skills,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_barrier_regulation_pct,Innovation Barrier Regulation,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_barrier_uncertain_demand_pct,Innovation Barrier Uncertain Demand,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_benefit_competitive_edge_pct,Innovation Benefit Competitive Edge,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_benefit_cost_reduction_pct,Innovation Benefit Cost Reduction,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_benefit_customer_service_pct,Innovation Benefit Customer Service,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_benefit_productivity_pct,Innovation Benefit Productivity,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_benefit_revenue_pct,Innovation Benefit Revenue,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_expenditure_pct_pct,Innovation Expenditure,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_funding_alternate_funding_sources_pct,Innovation Funding Alternate Funding Sources,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_funding_any_pct,Innovation Funding Any,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_funding_australian_government_organisations_pct,Innovation Funding Australian Government Organisations,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_funding_banks_pct,Innovation Funding Banks,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_funding_existing_owner_s_of_the_business_pct,Innovation Funding Existing Owner S Of The Business,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_funding_finance_companies_pct,Innovation Funding Finance Companies,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_funding_friends_or_family_of_existing_owner_s_pct,Innovation Funding Friends Or Family Of Existing Owner S,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_funding_other_businesses_pct,Innovation Funding Other Businesses,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_funding_other_pct,Innovation Funding Other,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_funding_venture_capital_private_equity_funds_pct,Innovation Funding Venture Capital Private Equity Funds,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_no_benefit_pct,Innovation No Benefit,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+innovation_too_early_pct,Innovation Too Early,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+input_cost_barrier_pct,Input Cost Barrier,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+internet_access_pct,Internet Access,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+internet_income_10_50_pct,Internet Income 10 50,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+internet_income_1_2_pct,Internet Income 1 2,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+internet_income_2_5_pct,Internet Income 2 5,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+internet_income_50plus_pct,Internet Income 50Plus,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+internet_income_5_10_pct,Internet Income 5 10,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+internet_income_lt1_pct,Internet Income Lt1,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+internet_insufficient_pct,Internet Insufficient,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+internet_mostly_insufficient_pct,Internet Mostly Insufficient,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+internet_mostly_sufficient_pct,Internet Mostly Sufficient,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+internet_sufficient_pct,Internet Sufficient,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+invested_digital_tech_pct,Invested Digital Tech,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+iot_pct,Iot,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+lack_skilled_persons_barrier_pct,Lack Skilled Persons Barrier,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+lower_margin_barrier_pct,Lower Margin Barrier,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+malware_pct,Malware,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+measured_digital_contribution_pct,Measured Digital Contribution,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+mobile_3g4g_pct,Mobile 3G4G,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+mobile_5g_pct,Mobile 5G,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+no_general_hampering_factor_pct,No General Hampering Factor,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+online_orders_placed_pct,Online Orders Placed,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+orders_edi_pct,Orders Edi,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+orders_marketplace_pct,Orders Marketplace,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+patching_pct,Patching,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+predictive_analysis_pct,Predictive Analysis,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+process_innovation_pct,Process Innovation,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+recruited_advanced_digital_skills_pct,Recruited Advanced Digital Skills,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+recruited_ict_specialists_pct,Recruited Ict Specialists,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+regulation_barrier_pct,Regulation Barrier,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+reviewed_automation_pct,Reviewed Automation,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+sales_marketing_skill_shortage_pct,Sales Marketing Skill Shortage,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+satellite_pct,Satellite,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+scams_fraud_pct,Scams Fraud,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+security_monitoring_pct,Security Monitoring,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+social_media_pct,Social Media,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+sought_digital_tech_pct,Sought Digital Tech,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+speed_1000plus_pct,Speed 1000Plus,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+speed_100_250_pct,Speed 100 250,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+speed_250_1000_pct,Speed 250 1000,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+speed_25_50_pct,Speed 25 50,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+speed_50_100_pct,Speed 50 100,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+speed_lt25_pct,Speed Lt25,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+structured_einvoice_pct,Structured Einvoice,percent,2021-22,Direct published value unless explicitly identified as a derived index.
+supply_chain_barrier_pct,Supply Chain Barrier,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+supply_chain_skill_shortage_pct,Supply Chain Skill Shortage,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+third_party_presence_pct,Third Party Presence,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+unauthorised_access_pct,Unauthorised Access,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+upgraded_cyber_pct,Upgraded Cyber,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+upskilling_reskilling_pct,Upskilling Reskilling,percent,2024-25,Direct published value unless explicitly identified as a derived index.
+virus_protection_pct,Virus Protection,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.
+website_app_pct,Website App,percent,2021-22 and 2024-25,Direct published value unless explicitly identified as a derived index.

@@ -1,0 +1,69 @@
+industry,model,actual_ai_use_2024_25_pct,predicted_ai_use_pct,error_pp
+"Agriculture, Forestry and Fishing",Ridge,2.8,6.411550585217406,3.6115505852174064
+Mining,Ridge,17.8,19.433909295928835,1.6339092959288344
+Manufacturing,Ridge,9.3,14.173352882783021,4.873352882783021
+"Electricity, Gas, Water and Waste Services",Ridge,15.4,14.495726939281866,-0.9042730607181344
+Construction,Ridge,6.4,4.2292117840916745,-2.170788215908326
+Wholesale Trade,Ridge,13.9,16.07632602379193,2.176326023791928
+Retail Trade,Ridge,9.2,14.671724108846451,5.471724108846452
+Accommodation and Food Services,Ridge,5.2,5.848518582655078,0.6485185826550781
+"Transport, Postal and Warehousing",Ridge,1.0,5.8031801487087105,4.8031801487087105
+Information Media and Telecommunications,Ridge,38.1,22.678107905722275,-15.421892094277727
+Financial and Insurance Services,Ridge,24.1,21.04062280030097,-3.059377199699032
+"Rental, Hiring and Real Estate Services",Ridge,11.0,16.369396913706105,5.369396913706105
+"Professional, Scientific and Technical Services",Ridge,24.1,20.438572862956224,-3.661427137043777
+Administrative and Support Services,Ridge,12.4,14.153595900884786,1.7535959008847861
+Health Care and Social Assistance,Ridge,17.4,13.502294892378682,-3.8977051076213165
+Arts and Recreation Services,Ridge,16.5,18.132325211826615,1.6323252118266147
+Other Services,Ridge,8.6,5.4249515298368856,-3.175048470163114
+"Agriculture, Forestry and Fishing",ElasticNet,2.8,4.336845376759232,1.5368453767592323
+Mining,ElasticNet,17.8,23.291232389760744,5.491232389760743
+Manufacturing,ElasticNet,9.3,13.317010485574377,4.017010485574376
+"Electricity, Gas, Water and Waste Services",ElasticNet,15.4,13.851023310523063,-1.5489766894769375
+Construction,ElasticNet,6.4,0.9414977409732135,-5.458502259026787
+Wholesale Trade,ElasticNet,13.9,12.683131073059359,-1.2168689269406414
+Retail Trade,ElasticNet,9.2,13.961411794489056,4.761411794489057
+Accommodation and Food Services,ElasticNet,5.2,4.980473635077065,-0.21952636492293554
+"Transport, Postal and Warehousing",ElasticNet,1.0,6.120112052929288,5.120112052929288
+Information Media and Telecommunications,ElasticNet,38.1,25.764621693365388,-12.335378306634613
+Financial and Insurance Services,ElasticNet,24.1,23.712557722643368,-0.3874422773566337
+"Rental, Hiring and Real Estate Services",ElasticNet,11.0,17.21346507825736,6.213465078257361
+"Professional, Scientific and Technical Services",ElasticNet,24.1,22.22046216960395,-1.8795378303960497
+Administrative and Support Services,ElasticNet,12.4,13.651766486367125,1.2517664863671243
+Health Care and Social Assistance,ElasticNet,17.4,13.307289187027232,-4.092710812972767
+Arts and Recreation Services,ElasticNet,16.5,18.704041675861742,2.204041675861742
+Other Services,ElasticNet,8.6,3.5716761781201,-5.0283238218799
+"Agriculture, Forestry and Fishing",RandomForest,2.8,8.753661349206352,5.953661349206352
+Mining,RandomForest,17.8,17.553007222222238,-0.24699277777776274
+Manufacturing,RandomForest,9.3,14.371088008657987,5.071088008657986
+"Electricity, Gas, Water and Waste Services",RandomForest,15.4,14.024255865800859,-1.3757441341991417
+Construction,RandomForest,6.4,6.905958722943725,0.505958722943725
+Wholesale Trade,RandomForest,13.9,17.477882301587318,3.5778823015873176
+Retail Trade,RandomForest,9.2,14.519787142857144,5.319787142857145
+Accommodation and Food Services,RandomForest,5.2,9.449005793650793,4.249005793650793
+"Transport, Postal and Warehousing",RandomForest,1.0,7.149576984126983,6.149576984126983
+Information Media and Telecommunications,RandomForest,38.1,19.463549761904794,-18.636450238095208
+Financial and Insurance Services,RandomForest,24.1,20.150908441558467,-3.949091558441534
+"Rental, Hiring and Real Estate Services",RandomForest,11.0,15.757277012987005,4.7572770129870054
+"Professional, Scientific and Technical Services",RandomForest,24.1,21.094733441558457,-3.0052665584415443
+Administrative and Support Services,RandomForest,12.4,13.054783968253963,0.6547839682539625
+Health Care and Social Assistance,RandomForest,17.4,15.595230238095231,-1.8047697619047671
+Arts and Recreation Services,RandomForest,16.5,15.60677103174602,-0.8932289682539807
+Other Services,RandomForest,8.6,5.989763412698415,-2.6102365873015847
+"Agriculture, Forestry and Fishing",ExtraTrees,2.8,8.468798571428572,5.668798571428572
+Mining,ExtraTrees,17.8,16.256720396825383,-1.5432796031746179
+Manufacturing,ExtraTrees,9.3,13.742723888888882,4.442723888888882
+"Electricity, Gas, Water and Waste Services",ExtraTrees,15.4,13.915290079365086,-1.4847099206349146
+Construction,ExtraTrees,6.4,6.537045476190498,0.13704547619049734
+Wholesale Trade,ExtraTrees,13.9,15.656279841269841,1.7562798412698406
+Retail Trade,ExtraTrees,9.2,13.436710317460312,4.236710317460313
+Accommodation and Food Services,ExtraTrees,5.2,9.415157777777774,4.215157777777773
+"Transport, Postal and Warehousing",ExtraTrees,1.0,7.3272095238095245,6.3272095238095245
+Information Media and Telecommunications,ExtraTrees,38.1,20.26531238095247,-17.834687619047532
+Financial and Insurance Services,ExtraTrees,24.1,19.25221849206353,-4.847781507936471
+"Rental, Hiring and Real Estate Services",ExtraTrees,11.0,14.774409920634927,3.774409920634927
+"Professional, Scientific and Technical Services",ExtraTrees,24.1,21.3978528571429,-2.7021471428571004
+Administrative and Support Services,ExtraTrees,12.4,13.59118865079364,1.1911886507936398
+Health Care and Social Assistance,ExtraTrees,17.4,13.93158761904763,-3.468412380952369
+Arts and Recreation Services,ExtraTrees,16.5,16.167467380952388,-0.3325326190476119
+Other Services,ExtraTrees,8.6,6.323510555555559,-2.276489444444441

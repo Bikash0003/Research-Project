@@ -1,0 +1,69 @@
+scheme,industry,challenge_index,rank_1_highest
+balanced,"Agriculture, Forestry and Fishing",75.39152225873576,1
+balanced,Mining,31.408736474246666,15
+balanced,Manufacturing,57.611882715212666,6
+balanced,"Electricity, Gas, Water and Waste Services",41.53028196162479,13
+balanced,Construction,73.80891726296136,2
+balanced,Wholesale Trade,49.780876464108125,12
+balanced,Retail Trade,56.272593701909685,8
+balanced,Accommodation and Food Services,69.0014010323165,5
+balanced,"Transport, Postal and Warehousing",71.80395240715723,3
+balanced,Information Media and Telecommunications,29.91516791472121,16
+balanced,Financial and Insurance Services,26.25663677974174,17
+balanced,"Rental, Hiring and Real Estate Services",51.91007404681406,10
+balanced,"Professional, Scientific and Technical Services",37.473249478548524,14
+balanced,Administrative and Support Services,53.6870939280301,9
+balanced,Health Care and Social Assistance,50.5554158005325,11
+balanced,Arts and Recreation Services,56.90838604349525,7
+balanced,Other Services,70.08240330018015,4
+capability_emphasis,"Agriculture, Forestry and Fishing",78.09275201236736,2
+capability_emphasis,Mining,32.05364736171049,15
+capability_emphasis,Manufacturing,57.85316300727531,6
+capability_emphasis,"Electricity, Gas, Water and Waste Services",42.25567592651747,13
+capability_emphasis,Construction,77.15870662026549,3
+capability_emphasis,Wholesale Trade,45.57354108011845,12
+capability_emphasis,Retail Trade,55.320590219239136,8
+capability_emphasis,Accommodation and Food Services,67.43946927824298,5
+capability_emphasis,"Transport, Postal and Warehousing",78.67974513702777,1
+capability_emphasis,Information Media and Telecommunications,25.787865339954635,17
+capability_emphasis,Financial and Insurance Services,27.241190533028828,16
+capability_emphasis,"Rental, Hiring and Real Estate Services",55.05463679156259,9
+capability_emphasis,"Professional, Scientific and Technical Services",39.575973329286626,14
+capability_emphasis,Administrative and Support Services,54.909894514899335,10
+capability_emphasis,Health Care and Social Assistance,50.252742389795856,11
+capability_emphasis,Arts and Recreation Services,56.24950262744657,7
+capability_emphasis,Other Services,73.29912117280747,4
+risk_emphasis,"Agriculture, Forestry and Fishing",71.83917685125745,3
+risk_emphasis,Mining,30.58207952366027,16
+risk_emphasis,Manufacturing,58.60564342002413,8
+risk_emphasis,"Electricity, Gas, Water and Waste Services",41.09648469745373,13
+risk_emphasis,Construction,72.1295980834818,2
+risk_emphasis,Wholesale Trade,55.086634774836966,9
+risk_emphasis,Retail Trade,58.90248065871591,7
+risk_emphasis,Accommodation and Food Services,72.82175638796113,1
+risk_emphasis,"Transport, Postal and Warehousing",66.30099189695568,5
+risk_emphasis,Information Media and Telecommunications,34.9357453930522,15
+risk_emphasis,Financial and Insurance Services,24.63101808746933,17
+risk_emphasis,"Rental, Hiring and Real Estate Services",49.73036098729626,12
+risk_emphasis,"Professional, Scientific and Technical Services",35.81551986399491,14
+risk_emphasis,Administrative and Support Services,53.18905852447506,10
+risk_emphasis,Health Care and Social Assistance,51.436614259676894,11
+risk_emphasis,Arts and Recreation Services,59.958332797883166,6
+risk_emphasis,Other Services,69.0854030911206,4
+equal_dimensions,"Agriculture, Forestry and Fishing",71.27730085922884,3
+equal_dimensions,Mining,32.480968884389995,15
+equal_dimensions,Manufacturing,54.66486422707849,7
+equal_dimensions,"Electricity, Gas, Water and Waste Services",42.076655091260335,13
+equal_dimensions,Construction,72.68281591940774,2
+equal_dimensions,Wholesale Trade,48.66891262307217,12
+equal_dimensions,Retail Trade,54.954856414758794,6
+equal_dimensions,Accommodation and Food Services,65.44619838339634,5
+equal_dimensions,"Transport, Postal and Warehousing",73.76513531703974,1
+equal_dimensions,Information Media and Telecommunications,30.41873921282304,16
+equal_dimensions,Financial and Insurance Services,27.450851776678306,17
+equal_dimensions,"Rental, Hiring and Real Estate Services",53.07062574457498,10
+equal_dimensions,"Professional, Scientific and Technical Services",38.87444482051767,14
+equal_dimensions,Administrative and Support Services,54.460320472640944,8
+equal_dimensions,Health Care and Social Assistance,48.9749302312668,11
+equal_dimensions,Arts and Recreation Services,54.43691898300671,9
+equal_dimensions,Other Services,68.90596872440541,4
